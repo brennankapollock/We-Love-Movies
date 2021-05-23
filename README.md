@@ -16,8 +16,6 @@ Follow these instructions:
 
 ## Details
 
-This API was built with and/or uses the following: 
-
-***Express, Knex, PostgreSQL, Cors, Dotenv***
+This API was built with and/or uses the following: ***Express, Knex, PostgreSQL, Cors, Dotenv***
 
 Detailed instructions for each endpoint and JSON formatting can be found in `docs/routes`
