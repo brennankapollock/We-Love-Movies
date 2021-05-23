@@ -12,10 +12,12 @@ Follow these instructions:
  
 3. Run `npm install`
 
-4. Run `npm run start:dev`
+4. Run `npm run start:dev` to start the server on localhost
 
 ## Details
 
 This API was built with and/or uses the following: 
 
 ***Express, Knex, PostgreSQL, Cors, Dotenv***
+
+Detailed instructions for each endpoint and JSON formatting can be found in `docs/routes`
