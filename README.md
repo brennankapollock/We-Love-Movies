@@ -13,3 +13,9 @@ Follow these instructions:
 3. Run `npm install`
 
 4. Run `npm run start:dev`
+
+## Details
+
+This API was built with and/or uses the following: 
+
+***Express, Knex, PostgreSQL, Cors, Dotenv***
