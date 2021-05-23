@@ -8,6 +8,6 @@ Follow these instructions:
 
 2. Clone this repository
  
-3. run `npm install`
+3. Run `npm install`
 
-4. run `npm run start:dev`
+4. Run `npm run start:dev`
