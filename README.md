@@ -24,4 +24,4 @@ Detailed instructions for each endpoint and JSON formatting can be found in `doc
 
 I will provide a UI built with ***React*** once I deploy that project. 
 
-In the meantime I suggest using [Postman](https://www.postman.com/) to see detialed request/response details.
+In the meantime I suggest using [Postman](https://www.postman.com/) to see request/response details.
