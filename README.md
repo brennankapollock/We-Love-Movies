@@ -2,6 +2,8 @@
 
 Would you like to get this running on your own machine for practice and/or reference?
 
+## Installation
+
 Follow these instructions:
 
 1. Fork this repository
